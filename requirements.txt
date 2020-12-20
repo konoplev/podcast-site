@@ -1,0 +1,4 @@
+feedparser==6.0.2
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+sgmllib3k==1.0.0
